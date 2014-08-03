@@ -3,9 +3,11 @@
   Plugin Name: Drop-Down Articles
   Plugin URI: https://github.com/BobCaSUaL/DropDown_Articles/
   Description: Make cools drop-down text with ShortCode.
-  Author: BobCaSUaL<casual4free(at)gmail.com>
   Version: 0.1
+  Author: BobCaSUaL<casual4free(at)gmail.com>
   Author URI: https://github.com/BobCaSUaL
+  License: GNU General Public License v3 or later
+  License URI: http://www.gnu.org/copyleft/gpl.html
  */
 
 // Use jQuery
